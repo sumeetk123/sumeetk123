@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumeetk123&label=Profile%20views&color=0e75b6&style=flat" alt="sumeetk123" /> </p>
 
-- 🔭 I’m currently working on [Dynamic Pricing Strategies for Retail: A Data-Driven Approach](https://github.com/sumeetk123/Resale-Car-Price-prediction-using-Regression-)
+- 🔭 I’m currently working on [Dynamic Pricing Strategies for Retail: A Data-Driven Approach](https://github.com/sumeetk123/Dynamic-Pricing-Strategies-for-Retail-A-Data-Driven-Approach)
 
 - 👨‍💻 All of my projects are available at [https://portfoliosumeet.netlify.app/](https://portfoliosumeet.netlify.app/)
 
